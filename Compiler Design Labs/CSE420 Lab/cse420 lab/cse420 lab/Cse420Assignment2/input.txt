@@ -1,0 +1,7 @@
+3
+a = 1
+b = 2
+c = 2
+2
+a x b + a x c + b x c
+a x c - b / c + c x c
